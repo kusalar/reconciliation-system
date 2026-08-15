@@ -91,4 +91,4 @@ All important settings live in `backend_proj/settings.py`:
 This project is licensed under the **MIT License** – see `LICENSE` for details.
 
 ---
-*Created by the Vidhya Rakshak team for the Smart India Hackathon.*
+*Created OUR the Vidhya Rakshak.*
